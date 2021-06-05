@@ -1,0 +1,103 @@
+{
+    "name": "rwk-content",
+    "title": "RWK Shared Content",
+    "description": "A collection of my content.",
+    "version": "1.0.0",
+    "author": "RWK",
+    "minimumCoreVersion": "0.7.5",
+    "compatibleCoreVersion": "0.8.6",
+    "packs": [
+        {
+            "name": "shared-monsters",
+            "label": "Monsters",
+            "path": "./packs/monsters.db",
+            "entity": "Actor"
+        },
+        {
+            "name": "shared-heroes",
+            "label": "Heroes",
+            "path": "./packs/heroes.db",
+            "entity": "Actor"
+        },
+        {
+            "name": "shared-class-features",
+            "label": "Class Features",
+            "path": "./packs/class-features.db",
+            "entity": "Item"
+        },
+        {
+            "name": "shared-classes",
+            "label": "Classes",
+            "path": "./packs/classes.db",
+            "entity": "Item"
+        },
+        {
+            "name": "shared-items",
+            "label": "Items",
+            "path": "./packs/items.db",
+            "entity": "Item"
+        },
+        {
+            "name": "shared-monster-features",
+            "label": "Moster Features",
+            "path": "./packs/monster-features.db",
+            "entity": "Item"
+        },
+        {
+            "name": "shared-racial-features",
+            "label": "Racial Features",
+            "path": "./packs/racial-features.db",
+            "entity": "Item"
+        },
+        {
+            "name": "shared-spells",
+            "label": "Spells",
+            "path": "./packs/spells.db",
+            "entity": "Item"
+        },
+        {
+            "name": "shared-trade-goods",
+            "label": "Trade Goods",
+            "path": "./packs/trade-goods.db",
+            "entity": "Item"
+        },
+        {
+            "name": "shared-scenes",
+            "label": "Shared Scenes",
+            "path": "./packs/scenes.db",
+            "entity": "Scene"
+        },
+        {
+            "name": "shared-rules",
+            "label": "Rules",
+            "path": "./packs/rules.db",
+            "entity": "JournalEntry"
+        },
+        {
+            "name": "shared-journal-entries",
+            "label": "Shared Journal Entries",
+            "path": "./packs/journal-entries.db",
+            "entity": "JournalEntry"
+        },
+        {
+            "name": "shared-macros",
+            "label": "Shared Macros",
+            "path": "./packs/macros.db",
+            "entity": "Macro"
+        },
+        {
+            "name": "shared-roll-tables",
+            "label": "Shared Roll Tables",
+            "path": "./packs/roll-tables.db",
+            "entity": "RollTable"
+        },
+        {
+            "name": "shared-playlists",
+            "label": "Shared Playlists",
+            "path": "./packs/playlists.db",
+            "entity": "Playlist"
+        }
+    ],
+    "manifest": "",
+    "download": ""
+  }
