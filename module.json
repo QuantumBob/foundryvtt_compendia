@@ -2,7 +2,7 @@
     "name": "rwk-content",
     "title": "RWK Shared Content",
     "description": "A collection of my content.",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "author": "RWK",
     "minimumCoreVersion": "0.7.5",
     "compatibleCoreVersion": "0.8.6",
@@ -99,6 +99,6 @@
         }
     ],
     "url": "https://github.com/QuantumBob/foundryvtt_compendia",
-    "manifest": "https://github.com/QuantumBob/foundryvtt_compendia/releases/download/v0.3/module.json",
-    "download": "https://github.com/QuantumBob/foundryvtt_compendia/releases/download/v0.3/foundryvtt_compendia.zip"
+    "manifest": "https://github.com/QuantumBob/foundryvtt_compendia/releases/download/2.0.0/module.json",
+    "download": "https://github.com/QuantumBob/foundryvtt_compendia/releases/download/2.0.0/foundryvtt_compendia.zip"
   }
