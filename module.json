@@ -98,6 +98,7 @@
             "entity": "Playlist"
         }
     ],
-    "manifest": "https://github.com/QuantumBob/foundryvtt_compendia/blob/85f69acccecdd34eff0850b69fae55b8f20427a2/module.json",
-    "download": "https://github.com/QuantumBob/foundryvtt_compendia/blob/85f69acccecdd34eff0850b69fae55b8f20427a2/foundryvtt_compendia.zip"
+    "url": "https://github.com/QuantumBob/foundryvtt_compendia",
+    "manifest": "",
+    "download": ""
   }
